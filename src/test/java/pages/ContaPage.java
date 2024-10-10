@@ -12,7 +12,7 @@ public class ContaPage {
 
 	private By msgErrorIniciarAbertura = By.xpath("//*[@id='error-message']");
 	
-	/**
+	/***
 	 * Informar o cpf que deseja iniciar o cadastrado
 	 * 
 	 * @param cpf
